@@ -46,6 +46,8 @@ Repository: [RegionGrowing](https://github.com/tgrillon/RegionGrowing.git)
 Tech used: C++, GLSL, OpenGL, ImGui , CMake  
 Repository: [FluidSimuSPH](https://github.com/tgrillon/FluidSimuSPH.git)
 
+and more...
+
 ---
 
 ## Contact
