@@ -28,7 +28,15 @@ OpenGL, Unity, (currently learning Qt)
 
 ---
 
-## Projects
+## Open source contribution
+**CGAL - GLFW Basic viewer** — Enhancement of the GLFW basic viewer initially developped by me in collaboration with [Théo Bénard](https://github.com/theo97490). This viewer aims for a lighter alternative solution to the Qt basic viewer for the CGAL library.  
+Tech used: C++, GLSL, OpenGL, CMake     
+Branch: [gsoc2024-basic_viewer_glfw-tgrillon](https://github.com/tgrillon/cgal-public-dev/tree/gsoc2024-basic_viewer_glfw-tgrillon)  
+Pull-request: [cgal/pull/8444](https://github.com/CGAL/cgal/pull/8444)  
+
+---
+
+## Personnal projects
 <a id="mesh-toolbox-project"></a>
 **MeshToolBox** — Algorithmic tools on meshes  
 Tech used: C++, GLSL, OpenGL, ImGui , CMake    
