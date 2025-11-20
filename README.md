@@ -9,7 +9,7 @@ Master 2 Informatique (ID3D – Université Lyon 1)
 - **Actively seeking new opportunities**
 - Interested in software development, computational geometry and image processing  
 - **Currently working on** :
-  - Developing a sight reading practice tool for piano learning using Qt and the [GUIDO Library](https://guido.grame.fr/dox/api/)
+  - Development of a sight reading practice tool for piano learning using Qt and the [GUIDO Library](https://guido.grame.fr/dox/api/)
   - Implementation of algorithms on meshes (see [MeshToolBox](#mesh-toolbox-project) project)      
 - Based near Lyon, open to relocation  
 
