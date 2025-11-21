@@ -3,7 +3,7 @@
 Software Developer — C++ / 3D / R&D  
 Master 2 Informatique (ID3D – Université Lyon 1)
 
-Status : Actively seeking new opportunities
+**Status : Actively seeking new opportunities**
 
 ---
 
