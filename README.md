@@ -39,21 +39,17 @@ Pull-request: [cgal/pull/8444](https://github.com/CGAL/cgal/pull/8444)
 
 ## 🧩 Personnal projects
 <a id="mesh-toolbox-project"></a>
-**MeshToolBox** — Algorithmic tools on meshes  
+**[MeshToolBox](https://github.com/tgrillon/MeshToolBox.git)** — Algorithmic tools on meshes  
 Tech used: C++, GLSL, OpenGL, ImGui , CMake  
-Repository: [MeshToolBox](https://github.com/tgrillon/MeshToolBox.git)  
 
-**LawsonMesher** — Implementation of the Lawson algorithm to generate meshes from a 2D point cloud  
+**[LawsonMesher](https://github.com/tgrillon/LawsonMesher.git)** — Implementation of the Lawson algorithm to generate meshes from a 2D point cloud  
 Tech used: C++, GLSL, OpenGL, ImGui , CMake  
-Repository: [LawsonMesher](https://github.com/tgrillon/LawsonMesher.git)  
 
-**RegionGrowing** — Image segmentation  
+**[RegionGrowing](https://github.com/tgrillon/RegionGrowing.git)** — Image segmentation  
 Tech used: C++, CMake, OpenCV  
-Repository: [RegionGrowing](https://github.com/tgrillon/RegionGrowing.git)  
 
-**FluidSimuSPH** — SPH fluid simulator  
+**[FluidSimuSPH](https://github.com/tgrillon/FluidSimuSPH.git)** — SPH fluid simulator  
 Tech used: C++, GLSL, OpenGL, ImGui , CMake  
-Repository: [FluidSimuSPH](https://github.com/tgrillon/FluidSimuSPH.git)  
 
 and more...
 
