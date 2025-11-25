@@ -48,10 +48,7 @@ Tech used: C++, GLSL, OpenGL, ImGui , CMake
 **[RegionGrowing](https://github.com/tgrillon/RegionGrowing.git)** — Image segmentation  
 Tech used: C++, CMake, OpenCV  
 
-**[FluidSimuSPH](https://github.com/tgrillon/FluidSimuSPH.git)** — SPH fluid simulator  
-Tech used: C++, GLSL, OpenGL, ImGui , CMake  
-
-and more...
+[and more...](PROJECTS.md)
 
 ---
 
