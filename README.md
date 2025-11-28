@@ -48,11 +48,12 @@ Tech used: C++, GLSL, OpenGL, ImGui , CMake
 **[RegionGrowing](https://github.com/tgrillon/RegionGrowing.git)** — Image segmentation  
 Tech used: C++, CMake, OpenCV  
 
-[and more...](https://tgrillon.github.io/)
+and more...
+
+🎨 Portfolio: [tgrillon.github.io](https://tgrillon.github.io/)
 
 ---
 
 ## ✉️ Contact
 📧 Email: theogrillon6f9@gmail.com  
 🔷 LinkedIn: [Théo Grillon](https://www.linkedin.com/in/théo-grillon-ab5169253/)  
-🎨 Portfolio: [tgrillon.github.io](https://tgrillon.github.io/)
