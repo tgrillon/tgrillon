@@ -3,6 +3,8 @@
 Software Developer — C++ / 3D / R&D  
 Master 2 Informatique (ID3D – Université Lyon 1)  
 
+🎨 Portfolio: [tgrillon.github.io](https://tgrillon.github.io/)
+
 **Status : 🔎 Actively seeking new opportunities**
 
 ---
@@ -48,9 +50,7 @@ Tech used: C++, GLSL, OpenGL, ImGui , CMake
 **[RegionGrowing](https://github.com/tgrillon/RegionGrowing.git)** — Image segmentation  
 Tech used: C++, CMake, OpenCV  
 
-and more...
-
-🎨 Portfolio: [tgrillon.github.io](https://tgrillon.github.io/)
+[and more...](https://tgrillon.github.io/)
 
 ---
 
