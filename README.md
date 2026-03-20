@@ -20,7 +20,7 @@ Master 2 Informatique (ID3D – Université Lyon 1)
 ## 🔧 Skills
 
 **🔡 Languages**  
-C++ (advanced), GLSL (advanced), C (notions)
+C++, GLSL, C, Java
 
 **🛠️ Tools & Technologies**  
 Git, CMake, Visual Studio, Linux, Windows
