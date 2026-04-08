@@ -3,7 +3,7 @@
 Software Developer — C++ / 3D / R&D  
 Master 2 Informatique (ID3D – Université Lyon 1)  
 
-🎨 Portfolio: [tgrillon.github.io](https://tgrillon.github.io/)
+🎨 Portfolio: [tgrillon.github.io](https://tgrillon.github.io/portfolio.io)
 
 **Status : 🔎 Actively seeking new opportunities**
 
