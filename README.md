@@ -12,7 +12,8 @@ Master 2 Informatique (ID3D – Université Lyon 1)
 ## 👨‍💻 About Me
 * ✨ Interested in software development, computational geometry and image processing  
 * **Currently working on** :  
-  - 🚧 Development of a sight reading practice tool for piano learning using Qt and the [GUIDO Library](https://guido.grame.fr/dox/api/)  
+  - 🚧 Development of a sight reading practice tool for piano learning using Qt and the [GUIDO Library](https://guido.grame.fr/dox/api/)
+  - 🏗️ Improvement of the [GLFW Basic viewer](https://tgrillon.github.io/cgal-basic-viewer.io/) architecture and cmake configuration rework.  
 * 📍 Based near Lyon, open to relocation
 
 ---
