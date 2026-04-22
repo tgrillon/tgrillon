@@ -56,5 +56,5 @@ Tech used: C++, CMake, OpenCV
 ---
 
 ## ✉️ Contact
-📧 Email: theogrillon6f9@gmail.com  
-🔷 LinkedIn: [Théo Grillon](https://www.linkedin.com/in/théo-grillon-ab5169253/)  
+📧 Email: theogrillon.pro@gmail.com  
+🔷 LinkedIn: [Théo Grillon](https://www.linkedin.com/in/theo-grillon/)  
