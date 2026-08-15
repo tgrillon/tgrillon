@@ -5,8 +5,6 @@ Master 2 Informatique (ID3D – Université Lyon 1)
 
 🎨 Portfolio: [tgrillon.github.io/portfolio.io](https://tgrillon.github.io/portfolio.io)
 
-**Status : 🔎 Actively seeking new opportunities**
-
 ---
 
 ## 👨‍💻 About Me
@@ -14,7 +12,6 @@ Master 2 Informatique (ID3D – Université Lyon 1)
 * **Currently working on** :  
   - 🚧 Development of a sight reading practice tool for piano learning using Qt and the [GUIDO Library](https://guido.grame.fr/dox/api/)  
   - 🏗️ Improvement of the [GLFW Basic viewer](https://tgrillon.github.io/cgal-basic-viewer.io/) architecture and cmake configuration rework.  
-* 📍 Based near Lyon, open to relocation
 
 ---
 
